@@ -10,7 +10,7 @@
   <h1 align="center">Designed by Thiloka Viraj</h1>
 
   <p align="center">
-    Graphic designs (logo, icon, art, and illustration) created/recreated by Thiloka Viraj. distributed for everyone under the <a href="https://github.com/thilokaviraj/designed_by_thiloka_viraj/blob/main/LICENSE">Creative Commons Zero v1.0</a> Universal license.
+    Graphic designs (logo, icon, art, and illustration) created/recreated by Thiloka Viraj. distributed for everyone under the <a href="https://github.com/thilokaviraj/designed_by_thiloka_viraj/blob/main/LICENSE">Creative Commons Zero v1.0 Universal</a> license.
     <br />
     <br />
     <a href="https://github.com/thilokaviraj/designed_by_thiloka_viraj/issues">Report a bug</a>
