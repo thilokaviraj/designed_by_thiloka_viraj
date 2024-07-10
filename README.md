@@ -9,6 +9,19 @@
 
 ---
 
+# Crafted With
+
+- Inkscape [https://inkscape.org/]
+- Krita [https://krita.org/en/]
+- GIMP [https://www.gimp.org/]
+- Adobe Illustrator
+- Adobe Photoshop
+
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
 # Credits :two_hearts:
 
 - Thiloka Viraj [@thilokaviraj](https://github.com/thilokaviraj)
